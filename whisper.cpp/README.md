@@ -5,7 +5,7 @@
 ```bash
 $ git clone https://github.com/anyj0527/whisper.cpp
 $ cd whisper.cpp
-$ git checkout nnstreamer-cpp-filter-v1.2.1
+$ git checkout nnstreamer-cpp-filter-v1.5.5
 $ bash ./models/download-ggml-model.sh base.en
 $ make nnstreamer
 $ gst-launch-1.0  \
